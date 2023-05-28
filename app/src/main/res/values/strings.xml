@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">GMMTV</string>
+
+    <string name="gmmtv_name">GMMTV Artist</string>
+    <string name="gmmtv_born">Born in</string>
+    <string name="gmmtv_drama">Popular Drama</string>
+    <string name="description">About</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="name_profile">Ni Putu Ayu Gita Saraswati</string>
+    <string name="email_profile">a240dsy2432@bangkit.academy</string>
+    <string name="gmmtv_pop">Popular Drama</string>
+
+    <string-array name="data_name">
+        <item>Fourth Nattawat</item>
+        <item>Fah Yongwaree</item>
+        <item>Gemini Norawit</item>
+        <item>namtan Tipnaree</item>
+        <item>Luke Ishikawa</item>
+        <item>Win Metawin</item>
+        <item>Bright Vachirawit</item>
+        <item>Janhae Ployshompoo</item>
+        <item>Nanon Korapat</item>
+        <item>Kapook Phatchara</item>
+        <item>Joong Archen</item>
+        <item>Jamie Juthapich</item>
+    </string-array>
+
+    <string-array name="data_born">
+        <item>October 18, 2004</item>
+        <item>January 16, 1999</item>
+        <item>June 13, 2004</item>
+        <item>July 1, 1996</item>
+        <item>September 13, 1995</item>
+        <item>February 22, 1999</item>
+        <item>December 27, 1997</item>
+        <item>January 5, 1995</item>
+        <item>December 18, 2000</item>
+        <item>October 29, 1994</item>
+        <item>March 10, 2001</item>
+        <item>December 12, 1997</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Nattawat Jirochtikul, known by his nickname Fourth, is a Thai actor under GMMTV. He began his career when he joined in the networks reality contest Thailand School Star 2019 and won, he then signed an exclusive contract with GMMTV.\n\nJirochtikul made his television debut when he played the role of Glakao Jundee, the younger brother of Gorya played by Tontawan Tantivejakul in the Thai adaptation of Boys Over Flowers, F4 Thailand: Boys Over Flowers. On December 2, 2022, the BL series My School President was released, in where he played Gun, the love interest of Tinn played by Gemini Norawit Titicharoenrak. Fourth also have supporting roles in the Midnight Series where he will play Li Ming, Jim (Earth Pirapat) nephew.</item>
+        <item>Yongwaree Anilbol, nicknamed Fah, is an actor. She graduated with a bachelors degree from the Faculty of Law at Ramkhamhaeng University. She graduated from the Faculty of Science Department of Commercial Pilot, Aviation Institute, Washington DC, and is now a pilot.\n\nFor her abilities, she is considered an all-rounder. Starting her acting career at the age of thirteen, Fah has previously worked with Channel 3 playing the role of Duangkae in Petch Klang Fai in addition to modelling work. Since 2021, she been signed as an artist under GMMTV. She owns an accessories brand named Forever Pumpkin.</item>
+        <item>Norawit Titicharoenrak, known by his nickname Gemini, is a Thai actor under GMMTV. Gemini started his career when he joined in the reality TV show Thailand School Star back in 2019. After being one of the finalists, he then signed an exclusive contract with GMMTV.\n\n. In 2021, Norawit made his television debut when he made a quick appearance in Bad Buddy The Series where he played as one of Nanon Korapat and Ohm Pawat highschool junior. On December 2, 2022, the series My School President started airing in GMM25, in where he played as Tinn, the love interest of Gun played by Fourth Nattawat Jirochtikul. He will also have supporting role in the Midnight Series: Moonlight Chicken.</item>
+        <item>Tipnaree Weerawatnodom is a Thai actress and host. She is known for her main roles as Boom in GMMTV Friend Zone and Friend Zone 2: Dangerous Area, and as both Meen and Mind in Who Are You.\n\nBorn in Phra Nakhon Si Ayutthaya Province, Thailand as Narumon Weerawatnodom, she completed her secondary education at Chomsurang Upatham School. In 2018, she graduated with a bachelor degree in fine arts, major in acting and directing from the Faculty of Fine Arts at Srinakharinwirot University Tipnaree started in the entertainment industry in 2013 as a regular member of Strawberry Krubcake which she co-hosted with future fellow GMMTV artists Vachirawit Chiva-aree (Bright) and Pronpiphat Pattanasettanon (Plustor).</item>
+        <item>Luke Ishikawa Plowden is a Japanese-American actor and model active in Thailand. He has been with GMMTV since 2019. Plowden is best known for his roles in Wake Up Ladies: Very Complicated, Nabi, My Stepdarling, and Oh My Boss.\n\nIn 2017, Plowden was given an offer to become a foreign model in Asia. His initial plan was to return to America to pursue an acting career, but decided to remain in Thailand. Plowden signed with GMMTV in 2019. He made his debut the same year in Wolf.[8] The following year, Plowden had a supporting role in Wake Up Ladies: Very Complicated with Jane Ramida Jiranorraphat.</item>
+        <item>Metawin Opas-iamkajorn, better known by his nickname Win is a Thai actor and model of Chinese descent, who made his debut in 2018, but got his breakthrough on 2020 through 2gether: The Series.\n\nOn September 16, 2020, his casting as Kavin in F4 Thailand was announced. 2gether costar Chivaaree along with Tontawan Tantivejakul, Jirawat Sutivanichsak, and Hirunkit Changkham also starred in the series. Opas-iamkajorn starred in Devil Sister with Min Peechaya Wattanamontree as his love interest in mid-2022.</item>
+        <item>Bright Vachirawit Chivaaree, known professionally as Bright Vachirawit or Bright, is a Thai actor, singer, host, model, entertainer and entrepreneur. He is popular for his lead roles in F4 Thailand: Boys Over Flowers, 2gether: The Series and Astrophile.\n\nChivaaree starred as Sarawat in 2gether: The Series with Metawin Opas-iamkajorn in early 2020. The popular series brought both leads international fame. They reprised their roles in the event series Still 2gether (2020) and the film 2gether: The Movie (2021). In September 2020, Chivaaree casting in F4 Thailand: Boys Over Flowers was announced. Premiering in December 2021, he starred as Thyme along side Tontawan Tantivejakul, Opas-iamkajorn, Jirawat Sutivanichsak, and Hirunkit Changkham. In 2022, Chivaaree starred in Astrophile with Mai Davika Hoorne and the ensemble drama, Good Old Days.</item>
+        <item>Ployshompoo Supasap, nicknamed Jan or Janhae, is an actor and singer from Bangkok under GMMTV since 2016. She completed her bachelors degree in philosophy, politics, and economics at Thammasat University.\n\n. Early on in her career, Supasap won a contest that allowed her to appear in a commercial with Girls Generation Taeyeon. She was subsequently given opportunities to appear in commercials, music videos, and eventually series. Supasap made her debut with a guest role in 2016 Senior Secret Love: Puppy Honey.</item>
+        <item>Korapat started his acting career at the age of three by appearing in several TV commercials. He made his acting debut in 2014 with the television drama series Hormones 2 where he had a guest role as M. In 2015, he had supporting roles in Ugly Duckling Series: Dont and Love Flight - television programs produced by GMM 25.\n\Nanon starred with Pawat Chittsawangdee (Ohm) in the highly successful BL series Bad Buddy. Due of their unrivaled chemistry, he and Pawat has held fan meetings in various countries including South Korea, Taiwan, Hong Kong, Thailand, Vietnam Singapore and Philippines.In December 2022, Nanon Korapat won the Best Theme Song Award for Just Friend? (Bad Buddy Series OST) at the 27th Asian TV Awards!</item>
+        <item>Phatchara Thabthong, nickname Kapook, is a Thai actress and model under GMMTV. She graduated from a demonstration school affiliated with Srinakharinwirot University. At the age of fourteen, Thabthong began booking commercials.\n\nShe reprised her role in the sequel that premiered later the same year. The following year, Thabthong appeared in the Channel 3 series Roi Pa Wai Duay Rak. In 2018, she appeared in the GMM 25 series Kiss Me Again and Roop Thong, followed by Channel 3 Sanae Rak Nang Cin and Line TV Seua Chanee Gayng: Freshy. That same year, Thabthong had her first main role portraying Pan in Love Songs Love Series: Sabai Sabai. She appeared in Rak Nee Hua Jai Rao Jong playing Lalita in 2019. In 2020, Thabthong had supporting roles in Friend Zone 2: Dangerous Area, Tonhon Chonlatee, and Khun Mae Mafia.</item>
+        <item>Joong Archen Aydin is a Thai actor and singer. He moved to Turkey with his mother when he was very young. He came back to Thailand to act while in high school. He is best known for his role as Khabkluen in the Star and Sky series.\n\nOn December 1, the press conference for GMMTV 2022: Borderless was broadcast. It was revealed that Joong will co-star in a new series, Star and Sky: Star in My Mind, with Dunk Natachai.The official trailer for the series was released on March 23, 2022, while they were filming a variety show, Safe House: Best Bros.</item>
+        <item>Jamie Juthapich Indrajundra is a Thai-German actress. She is currently working under GMMTV, and has graduated from Chulalongkorn University, Faculty of Communication Arts.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/fourth</item>
+        <item>@drawable/fah</item>
+        <item>@drawable/gemini</item>
+        <item>@drawable/namtan</item>
+        <item>@drawable/luke</item>
+        <item>@drawable/win</item>
+        <item>@drawable/bright</item>
+        <item>@drawable/janhae</item>
+        <item>@drawable/nanon</item>
+        <item>@drawable/kapook</item>
+        <item>@drawable/joong</item>
+        <item>@drawable/jamie</item>
+    </integer-array>
+
+    <integer-array name="data_photo2">
+        <item>@drawable/profile1</item>
+        <item>@drawable/profile2</item>
+        <item>@drawable/profile3</item>
+        <item>@drawable/profile4</item>
+        <item>@drawable/profile5</item>
+        <item>@drawable/profile6</item>
+        <item>@drawable/profile7</item>
+        <item>@drawable/profile8</item>
+        <item>@drawable/profile9</item>
+        <item>@drawable/profile10</item>
+        <item>@drawable/profile11</item>
+        <item>@drawable/profile12</item>
+    </integer-array>
+
+    <integer-array name="data_photo3">
+        <item>@drawable/president</item>
+        <item>@drawable/warp</item>
+        <item>@drawable/president</item>
+        <item>@drawable/whoare</item>
+        <item>@drawable/donovan</item>
+        <item>@drawable/gether</item>
+        <item>@drawable/gether</item>
+        <item>@drawable/hateyou</item>
+        <item>@drawable/badbuddy</item>
+        <item>@drawable/player</item>
+        <item>@drawable/sky</item>
+        <item>@drawable/fantasy</item>
+    </integer-array>
+
+    <string-array name="data_drama">
+        <item>My School President (2022)</item>
+        <item>The Warp Effect (2022)</item>
+        <item>My School President (2022)</item>
+        <item>Who Are You (2020)</item>
+        <item>My Dear Donovan (2022)</item>
+        <item>2 Gether The Series (2020)</item>
+        <item>2 Gether The Series (2020)</item>
+        <item>P.S I Hate You (2022)</item>
+        <item>Bad Buddy The Series (2021)</item>
+        <item>The Player (2021)</item>
+        <item>Star and Sky: Star in My Mind (2022)</item>
+        <item>Girl Next Room: Midnight Fantasy (2020)</item>
+    </string-array>
+
+    <integer-array name="data_photo4">
+        <item>@drawable/chickenf</item>
+        <item>@drawable/hateyouu</item>
+        <item>@drawable/chickeng</item>
+        <item>@drawable/donovann</item>
+        <item>@drawable/gentle</item>
+        <item>@drawable/boys</item>
+        <item>@drawable/boys</item>
+        <item>@drawable/cupid</item>
+        <item>@drawable/gifted</item>
+        <item>@drawable/boys</item>
+        <item>@drawable/warps</item>
+        <item>@drawable/whoarey</item>
+    </integer-array>
+
+    <string-array name="data_drama2">
+        <item>Moonlight Chicken (2023)</item>
+        <item>P.S I Hate You (2022)</item>
+        <item>Moonlight Chicken (2023)</item>
+        <item>My Dear Donovan (2022)</item>
+        <item>The Three GentleBros (2022)</item>
+        <item>F4 Thailand: Boys Over Flower (2021)</item>
+        <item>F4 Thailand: Boys Over Flower (2021)</item>
+        <item>Cupid Last Wish (2022)</item>
+        <item>The Gifted (2018)</item>
+        <item>F4 Thailand: Boys Over Flower (2021)</item>
+        <item>The Warp Effect (2022)</item>
+        <item>Who Are You (2020)</item>
+    </string-array>
+
+    <integer-array name="data_photo5">
+        <item>@drawable/boyss</item>
+        <item>@drawable/boyss</item>
+        <item>@drawable/badbuddys</item>
+        <item>@drawable/youhate</item>
+        <item>@drawable/boss</item>
+        <item>@drawable/oldday</item>
+        <item>@drawable/astro</item>
+        <item>@drawable/motel</item>
+        <item>@drawable/graduation</item>
+        <item>@drawable/dirty</item>
+        <item>@drawable/star</item>
+        <item>@drawable/hateyous</item>
+    </integer-array>
+
+    <string-array name="data_drama3">
+        <item>F4 Thailand: Boys Over Flower (2021)</item>
+        <item>F4 Thailand: Boys Over Flower (2021)</item>
+        <item>Bad Buddy The Series (2021)</item>
+        <item>A Gift to the People You Hate (2019)</item>
+        <item>Oh My Boss (2021)</item>
+        <item>Good Old Days (2022)</item>
+        <item>Astrophile (2022)</item>
+        <item>Midnight Motel (2022)</item>
+        <item>The Gifted Season 2: Graduation (2020)</item>
+        <item>Dirty Laundry (2023)</item>
+        <item>Star and Sky: Sky in Your Heart (2022)</item>
+        <item>P.S I Hate You (2022)</item>
+    </string-array>
+
+
+
+</resources>
